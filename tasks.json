@@ -1,0 +1,30 @@
+[
+  {
+    "id": "T1",
+    "title": "Submit university scholarship application",
+    "deadline": "2026-09-20",
+    "priority": "high",
+    "status": "in_progress"
+  },
+  {
+    "id": "T2",
+    "title": "Finish AI course module 4",
+    "deadline": "2026-09-12",
+    "priority": "medium",
+    "status": "todo"
+  },
+  {
+    "id": "T3",
+    "title": "Pay mobile recharge bill",
+    "deadline": "2026-09-07",
+    "priority": "high",
+    "status": "todo"
+  },
+  {
+    "id": "T4",
+    "title": "Reply to admissions office email",
+    "deadline": "2026-09-10",
+    "priority": "medium",
+    "status": "todo"
+  }
+]
