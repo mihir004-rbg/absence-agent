@@ -1,0 +1,11 @@
+{
+  "owner_name": "Mithun Sharma",
+  "absence_mode": true,
+  "absence_until": "2026-09-15",
+  "reply_tone": "friendly and professional",
+  "escalation_rules": {
+    "keywords_urgent": ["deadline", "withdraw", "urgent", "today", "asap", "payment"],
+    "escalate_if_deadline_within_days": 3
+  },
+  "signature": "Best regards,\nMithun's Absence Agent (auto-reply)"
+}
