@@ -1,0 +1,23 @@
+[
+  {
+    "id": "M1",
+    "from": "admissions@university.edu",
+    "subject": "Missing document in your application",
+    "body": "Hi, your application is missing one transcript. Please send it before Friday or the application will be withdrawn.",
+    "received": "2026-09-06T09:00:00Z"
+  },
+  {
+    "id": "M2",
+    "from": "team@projectx.com",
+    "subject": "Can you review the design draft?",
+    "body": "Hey! Whenever you have time this week, could you look at the design draft and share feedback?",
+    "received": "2026-09-06T10:30:00Z"
+  },
+  {
+    "id": "M3",
+    "from": "newsletter@aitrends.io",
+    "subject": "Weekly AI news digest",
+    "body": "This week in AI: ...",
+    "received": "2026-09-06T07:00:00Z"
+  }
+]
